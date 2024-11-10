@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# Boot Image Extractor Tool By @e1phn
+# 
 # This tool will extract  boot.img, and all other partitions from payload.bin
-
-# Set up storage
-termux-setup-storage
 
 # Define color variables
 green='\033[0;32m'
